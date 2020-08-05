@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1596032293 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1596032293 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\linkedlist.h
+
+1596032293 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\validacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validacion.h"
+
+1596032293 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\validacion.h
+
+1596635862 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	<time.h>
+	"parser.h"
+	"informes.h"
+
+1596479195 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\parser.h
+
+1596635117 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\informes.h
+
+1596635999 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"posts.h"
+	"validacion.h"
+
+1596631595 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\parser.c
+	"LinkedList.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"posts.h"
+
+1596631974 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\epost.h
+
+1596632902 c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\posts.h
+
+1596631974 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\epost.c
+
+1596636239 source:c:\users\fede\desktop\recu ii pacial laboratoroi\recsegparcial_anerscott_05-08\posts.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"posts.h"
+	<time.h>
+	"parser.h"
+	"informes.h"
+	<string.h>
+
